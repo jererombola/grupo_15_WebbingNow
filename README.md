@@ -16,4 +16,7 @@ https://www.webit.com/
 ## Links
 
 ## Integrantes
+>Jeremias
+>Emilse
+>Brandon-"Tengo 27 años, trabajo de soporte tecnico para Gilbarco, soy nuevo en el mundo de coding, Animo Animo"
 
