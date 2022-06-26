@@ -1,22 +1,25 @@
 # Grupo_15_Webbing
 
-## Indice
-
 ## Introduccion
 
 ## Referentes del Mercado
-https://www.squarespace.com/
-https://www.wix.com/
-https://www.website.com/
-https://www.godaddy.com 
-https://www.web.com/
-https://www.webstarts.com/
-https://www.webit.com/
+[Square_Space] (https://www.squarespace.com/)
+[Website]  (https://www.website.com/)
+[Godaddy] (https://www.godaddy.com )
+[Web] (https://www.web.com/)
+[Webstarts] (https://www.webstarts.com/)
+[Webit] (https://www.webit.com/)
 
 ## Links
-
+[GitHub]
+[Figma]
+[WireFrames](/WireFrames/)
+[Logo](/Logo/Webbing.png)
+[Boceto]
+[Tipografía]
+[Paleta_de_colores]
 ## Integrantes
->Jeremias
+>Jeremias - "Tengo 28 años, trabajo como Responsable del Servicio de Cajas en un banco, y estoy dando mis primeros pasos en el mundo IT"
 >Emilse
 >Brandon-"Tengo 27 años, trabajo de soporte tecnico para Gilbarco, soy nuevo en el mundo de coding, Animo Animo"
 
