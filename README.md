@@ -3,12 +3,12 @@
 ## Introduccion
 
 ## Referentes del Mercado
-[Square_Space] (https://www.squarespace.com/)
-[Website]  (https://www.website.com/)
-[Godaddy] (https://www.godaddy.com )
-[Web] (https://www.web.com/)
-[Webstarts] (https://www.webstarts.com/)
-[Webit] (https://www.webit.com/)
+[Square_Space](https://www.squarespace.com/)
+[Website](https://www.website.com/)
+[Godaddy](https://www.godaddy.com )
+[Web](https://www.web.com/)
+[Webstarts](https://www.webstarts.com/)
+[Webit](https://www.webit.com/)
 
 ## Links
 [GitHub]
