@@ -1,7 +1,7 @@
 # Referentes de Mercado
 
 + **ENLACES**
-    [Square_Space](https://www.squarespace.com/)
+   + [Square_Space](https://www.squarespace.com/)
     + >
     [Website](https://www.website.com/)
     + >
@@ -15,4 +15,4 @@
     + >
     
     
-    + [**Volver**](/README.md)
+    [**Volver**](/README.md)
