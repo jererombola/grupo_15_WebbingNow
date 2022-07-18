@@ -1,12 +1,12 @@
 # Tematica
 
-Nuestro proyecto es una pagina web que permite a los distintos clientes adaptar las diferentes necesidades, ya sea en aspectos, funcionalidad y usos.
-Las plantillas son versátiles a la hora de elegir las funciones que se quieren aplicar, brindando un servicio único y especializado. Con llevando con sigo un nivel de compromiso y fidelidad, por parte del equipo que lo conforma.
+Nuestro proyecto es una pagina web que permite a los distintos usuarios, crear a través de plantillas predeterminadas paginas web de lo que esten buscando.
+Las plantillas cumplen los mas altos niveles de calidad, es un compromiso nuestro con el usuario.
 
 ___________
 
 
-El público al cual se dirige el proyecto son las Start-Ups e independientes, que necesitan crear sus paginas a bajo costo y de forma rapida.
+El público al cual se dirige el proyecto son las Start-Ups e independientes, o cualquier usuario que necesite crear paginas a bajo costo y de forma rapida.
 
 
 + [**Volver**](/README.md)

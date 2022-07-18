@@ -19,6 +19,8 @@
 
     [Webit](https://www.webit.com/)
     + > Se tomo como referencia porque desde el principio nos llamo la atencion, la forma de dar la idea del fin de la pagina.
-
+    
+    [Webnode](https://www.webnode.com.ar/)
+    + > Una de la principales referencias, dado que permite establecer templates predeterminados.
     
     + [**Volver**](/README.md)
