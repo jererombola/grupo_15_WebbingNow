@@ -1,0 +1,22 @@
+{
+  "name": "grupo_15_webbingnow",
+  "version": "1.0.0",
+  "description": "+ [**TEMATICA**](./Documents/tematica.md) + [**EQUIPO**](./Documents/equipo.md) + [**REFERENTES**](./Documents/referentes.md) + [**DISEÑOS**](./Documents/dise%C3%B1os.md)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jererombola/grupo_15_WebbingNow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jererombola/grupo_15_WebbingNow/issues"
+  },
+  "homepage": "https://github.com/jererombola/grupo_15_WebbingNow#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

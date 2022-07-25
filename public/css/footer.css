@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+footer{
+    color: white;
+    background-color: #8EBDB6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+footer section{
+    width: 32vw;
+    padding: 1.5vw;
+    
+}
+footer h2{
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+footer a{
+    font-size: 1rem;
+}
+@media screen and(min-width: 768px){
+    
+}
+@media screen and(min-width: 1024px){
+
+}
